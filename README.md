@@ -39,7 +39,5 @@ Aqui registro minha evolução, testes, anotações e boas práticas aprendidas 
 - **Git & GitHub**
 - VS Code
 
----
 
-## 📁 Estrutura Geral (exemplo)
 
