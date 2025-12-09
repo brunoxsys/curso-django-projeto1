@@ -3,7 +3,8 @@ from django.shortcuts import render
 
 
 def home(request):
-    return HttpResponse('UMA HOME PAGE :)')
+    return render(request, 'home.html')
+
 
 def sobre(request):
     return HttpResponse('PÁGINA SOBRE :)')
